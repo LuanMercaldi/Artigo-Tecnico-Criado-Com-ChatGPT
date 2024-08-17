@@ -61,7 +61,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     />
     <p>&nbsp&nbsp&nbspLuan Mercaldi<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/Strighnight">
+    <a href="https://github.com/LuanMercaldi">
     GitHub</a>&nbsp;|&nbsp;
     <a href="https://www.linkedin.com/in/luan-willian-ponchio-mercaldi-88080890/">LinkedIn</a>
 </p>
