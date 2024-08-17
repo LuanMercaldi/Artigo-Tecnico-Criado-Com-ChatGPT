@@ -70,4 +70,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ---
 
-⌨️ com 💜 por [Luan Mercaldi](https://github.com/Strighnight)
+⌨️ com 💜 por [Luan Mercaldi](https://github.com/LuanMercaldi)
