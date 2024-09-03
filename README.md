@@ -63,7 +63,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://www.dio.me/users/luanwp">
     DIO</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/luan-willian-ponchio-mercaldi-88080890/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/luan-mercaldi-88080890/">LinkedIn</a>
 </p>
 <br/><br/>
 <p>
